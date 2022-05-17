@@ -1,2 +1,3 @@
 # Semi-MsST-GAN
-# The data and code will be released when the paper is published.
+# This paper is publicly available at (http://doi: 10.3389/fnins.2021.793377).
+
